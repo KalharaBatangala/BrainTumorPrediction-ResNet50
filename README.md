@@ -32,7 +32,7 @@ This project develops a high-performance deep learning model for brain tumor cla
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/BrainTumorPred-ResNet50-Neurosight.git
+   git clone https://github.com/KalharaBatangala/BrainTumorPrediction-ResNet50.git
    cd BrainTumorPred-ResNet50-Neurosight
    ```
 
