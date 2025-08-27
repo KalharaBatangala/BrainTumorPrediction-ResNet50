@@ -1,12 +1,14 @@
 # BrainTumorPred-ResNet50-Neurosight
 
+
+A deep learning pipeline for classifying brain tumors (glioma, meningioma, notumor, pituitary) using ResNet50 on T2-weighted MRI images, achieving ~90% validation accuracy and targeting 95%+ macro F1-score with Grad-CAM visualizations for explainable medical diagnosis.
+
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-blue.svg)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-blueviolet.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-A deep learning pipeline for classifying brain tumors (glioma, meningioma, notumor, pituitary) using ResNet50 on T2-weighted MRI images, achieving ~90% validation accuracy and targeting 95%+ macro F1-score with Grad-CAM visualizations for explainable medical diagnosis.
 
 ## Overview
 
